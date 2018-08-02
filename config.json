@@ -73,6 +73,7 @@
       "difficulty": 1,
       "topics": [
         "loops",
+        "mathematics",
         "primes"
       ]
     },
@@ -118,7 +119,8 @@
       "difficulty": 1,
       "topics": [
         "fold",
-        "map"
+        "map",
+        "mathematics"
       ]
     },
     {
@@ -129,7 +131,8 @@
       "difficulty": 1,
       "topics": [
         "algorithm",
-        "borrowing"
+        "borrowing",
+        "mathematics"
       ]
     },
     {
@@ -150,6 +153,7 @@
       "unlocked_by": null,
       "difficulty": 1,
       "topics": [
+        "mathematics",
         "option"
       ]
     },
@@ -191,6 +195,7 @@
       "unlocked_by": "pythagorean-triplet",
       "difficulty": 1,
       "topics": [
+        "mathematics",
         "option"
       ]
     },
@@ -376,6 +381,7 @@
       "topics": [
         "char",
         "higher_order_functions",
+        "mathematics",
         "result",
         "windows"
       ]
@@ -491,6 +497,7 @@
       "difficulty": 4,
       "topics": [
         "map",
+        "mathematics",
         "vector",
         "while_let_optional"
       ]
@@ -543,6 +550,7 @@
         "enumerate",
         "fold",
         "map",
+        "mathematics",
         "result"
       ]
     },
@@ -825,6 +833,7 @@
       "difficulty": 4,
       "topics": [
         "calculation",
+        "mathematics",
         "string_comparison",
         "structs"
       ]
